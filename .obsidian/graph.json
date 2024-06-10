@@ -1,0 +1,135 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#mixing  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#index",
+      "color": {
+        "a": 1,
+        "rgb": 714316
+      }
+    },
+    {
+      "query": "tag:#mastering  ",
+      "color": {
+        "a": 1,
+        "rgb": 5530585
+      }
+    },
+    {
+      "query": "tag:#arrangement  ",
+      "color": {
+        "a": 1,
+        "rgb": 16330671
+      }
+    },
+    {
+      "query": "tag:#plugins  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#sounddesign  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#soundcloud  ",
+      "color": {
+        "a": 1,
+        "rgb": 18236
+      }
+    },
+    {
+      "query": "tag:#recordlabels  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#smm  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "tag:#gigs  ",
+      "color": {
+        "a": 1,
+        "rgb": 3740692
+      }
+    },
+    {
+      "query": "tag:#daws  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#genres  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#equipment  ",
+      "color": {
+        "a": 1,
+        "rgb": 16696233
+      }
+    },
+    {
+      "query": "tag:#sampling  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#djing  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "tag:#musictheory  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2588386562181714,
+  "close": true
+}

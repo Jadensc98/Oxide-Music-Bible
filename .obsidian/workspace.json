@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "1bc782a07c2e1612",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bc08456be18df96",
+        "type": "split",
+        "children": [
+          {
+            "id": "035bdb50de71f323",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8906b88084eaa30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DJing/Crowd Reading.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2df5fdb6239e6bb5",
+            "type": "split",
+            "children": [
+              {
+                "id": "4a8bae79b9df7cf9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0bb382e5df95fc39",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "8c0f3e172f7fba9b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "7bd3f9fa18b1f9e5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "calendar",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f070f085f8fecd10",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a877d8a839afd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da839b449928ff43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2612a35470141d3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#masteringmaster",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32c45a528070e16c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "feec7b8763e50365",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a19b7f9dbe4af63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b35cf8be8d0707ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DJing/Crowd Reading.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4dbe6fa156e4666",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DJing/Crowd Reading.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1baf0d02ba022a7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e4e883b5e6e199f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DJing/Crowd Reading.md"
+              }
+            }
+          },
+          {
+            "id": "c1477ca73219505f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "f8906b88084eaa30",
+  "lastOpenFiles": [
+    "DJing/Djing 101.md",
+    "DJing/Crowd Reading.md",
+    "d566f88d-smush-pro+dj+mix+set.jpg",
+    "Mastering/Reference Tracks.md",
+    "Images/4905bgniu.jpg",
+    "Mastering/Mastering Notes.md",
+    "Mastering/Mastering 101.md",
+    "Mastering/LUFs.md",
+    "Images/6ef101dcf342-image-1-insight-2-in-action.png",
+    "Mastering/Clipping.md",
+    "DJing/Curating A Set.md",
+    "DJing/DJEffects.md",
+    "DAWs/Which one to choose.md",
+    "DAWs/Others.md",
+    "DAWs/DAWS Notes.md",
+    "DAWs/DAWS 101.md",
+    "Images/02QaOt9scNCqy2rcspJPLmq-21.webp",
+    "DAWs/Collaborating.md",
+    "Arrangement/Your Style.md",
+    "Arrangement/Outros.md",
+    "Arrangement/Intros.md",
+    "Arrangement/Drops.md",
+    "Arrangement/Buildups.md",
+    "Arrangement/Breakdowns.md",
+    "Arrangement/Arrangement Notes.md",
+    "Arrangement/Arrangement 101.md",
+    "Images/Music-Arrangement-Tips-710x473-427fd165.jpg",
+    "Images/que-se-necesita-para-ser-dj-640x426.jpg",
+    "FULL INDEX.md",
+    "DAWs/FL Studio.md",
+    "DAWs/Ableton.md",
+    "Images/b5d5beef4b72aba85bfa3a2cc5e4d771.png",
+    "Audio",
+    "Audio/Fill-Roll.wav",
+    "Audio/Fill-Roll.wav",
+    "Audio",
+    "Images/Snare-Roll.png",
+    "Music Theory",
+    "DJing",
+    "Excalidraw",
+    "Resources",
+    "Sampling",
+    "Equipment",
+    "Images/97c2aacd9986785de963b798672e0d6e.png",
+    "Images/ab69b747462377c88644f5f17c444059.png"
+  ]
+}

@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "DJing/Curating A Set.md",
+                    "file": "Mixing/Extra Notes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DJing/Curating A Set.md",
+                "file": "Mixing/Extra Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DJing/Curating A Set.md",
+                "file": "Mixing/Extra Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DJing/Curating A Set.md"
+                "file": "Mixing/Extra Notes.md"
               }
             }
           },
@@ -207,11 +207,12 @@
   },
   "active": "f8906b88084eaa30",
   "lastOpenFiles": [
+    "Mixing/Equalization (EQ).md",
+    "DJing/Curating A Set.md",
     "DJing/USB.md",
     "DJing/Rekordbox.md",
     "DJing/Picking Music.md",
     "DJing/Djing 101.md",
-    "DJing/Curating A Set.md",
     "DJing/DJEffects.md",
     "DJing/Crowd Reading.md",
     "Images/d566f88d-smush-pro+dj+mix+set.jpg",
@@ -238,7 +239,6 @@
     "Arrangement/Arrangement 101.md",
     "Images/Music-Arrangement-Tips-710x473-427fd165.jpg",
     "Images/que-se-necesita-para-ser-dj-640x426.jpg",
-    "FULL INDEX.md",
     "Images/b5d5beef4b72aba85bfa3a2cc5e4d771.png",
     "Audio",
     "Audio/Fill-Roll.wav",

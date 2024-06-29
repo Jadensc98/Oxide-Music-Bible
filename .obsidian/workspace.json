@@ -22,8 +22,19 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "adb707ee06659578",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.5"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "2df5fdb6239e6bb5",
@@ -182,9 +193,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "a82184d9d1c899e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,7 +224,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f8906b88084eaa30",
+  "active": "adb707ee06659578",
   "lastOpenFiles": [
     "Mixing/Equalization (EQ).md",
     "DJing/Curating A Set.md",

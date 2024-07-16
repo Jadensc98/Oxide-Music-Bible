@@ -9,3 +9,5 @@
 - edison blur for vocal reverb
 - vocalsynth 2
 - MRingmodulatorMB or khs ring mod for crucnh
+- archetype gojira neural dsp
+- layering different vocals

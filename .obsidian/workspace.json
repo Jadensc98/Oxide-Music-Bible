@@ -12,31 +12,18 @@
             "type": "tabs",
             "children": [
               {
-                "id": "f8906b88084eaa30",
+                "id": "200ec928b0d81220",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mixing/Extra Notes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "adb707ee06659578",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "General Notes & Advice.md",
+                    "file": "Lessons.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "2df5fdb6239e6bb5",
@@ -140,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes & Advice.md",
+                "file": "Lessons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes & Advice.md",
+                "file": "Lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes & Advice.md"
+                "file": "Lessons.md"
               }
             }
           },
@@ -226,8 +213,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "adb707ee06659578",
+  "active": "da839b449928ff43",
   "lastOpenFiles": [
+    "General Notes & Advice.md",
+    "Lessons.md",
     "Mixing/Equalization (EQ).md",
     "DJing/Curating A Set.md",
     "DJing/USB.md",
@@ -256,8 +245,6 @@
     "Arrangement/Drops.md",
     "Arrangement/Buildups.md",
     "Arrangement/Breakdowns.md",
-    "Arrangement/Arrangement Notes.md",
-    "Arrangement/Arrangement 101.md",
     "Images/Music-Arrangement-Tips-710x473-427fd165.jpg",
     "Images/que-se-necesita-para-ser-dj-640x426.jpg",
     "Images/b5d5beef4b72aba85bfa3a2cc5e4d771.png",

@@ -4,3 +4,5 @@
  - How do you recommend shifting more attention from Soundcloud over to Spotify?
  - Go over the Serpent of Old remix
  - For songs like Paul's Dream and Duel of the Fates, how are you developing the orchestral sounds? 
+
+## Notes

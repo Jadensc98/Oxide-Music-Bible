@@ -7,3 +7,4 @@
 
 ## Notes
 - edison blur for vocal reverb
+- vocalsynth 2

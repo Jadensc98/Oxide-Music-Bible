@@ -6,3 +6,4 @@
  - For songs like Paul's Dream and Duel of the Fates, how are you developing the orchestral sounds? 
 
 ## Notes
+- edison blur for vocal reverb

@@ -22,8 +22,19 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "5d1a75f70f1256d1",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.7"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "2df5fdb6239e6bb5",
@@ -213,7 +224,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "da839b449928ff43",
+  "active": "5d1a75f70f1256d1",
   "lastOpenFiles": [
     "General Notes & Advice.md",
     "Lessons.md",

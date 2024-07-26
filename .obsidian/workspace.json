@@ -17,24 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Lessons.md",
+                    "file": "DJing/Crowd Reading.md",
                     "mode": "source",
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "5d1a75f70f1256d1",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.6.7"
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "2df5fdb6239e6bb5",
@@ -138,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons.md",
+                "file": "DJing/Crowd Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons.md",
+                "file": "DJing/Crowd Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons.md"
+                "file": "DJing/Crowd Reading.md"
               }
             }
           },
@@ -224,18 +213,21 @@
       "media-extended:Open media": false
     }
   },
-  "active": "5d1a75f70f1256d1",
+  "active": "da839b449928ff43",
   "lastOpenFiles": [
-    "General Notes & Advice.md",
-    "Lessons.md",
-    "Mixing/Equalization (EQ).md",
+    "Mixing/Dynamics.md",
+    "DJing/Crowd Reading.md",
     "DJing/Curating A Set.md",
+    "DJing/DJEffects.md",
+    "Lessons.md",
+    "Oxidesmusicbible.zip",
+    "Arrangement.zip",
+    "General Notes & Advice.md",
+    "Mixing/Equalization (EQ).md",
     "DJing/USB.md",
     "DJing/Rekordbox.md",
     "DJing/Picking Music.md",
     "DJing/Djing 101.md",
-    "DJing/DJEffects.md",
-    "DJing/Crowd Reading.md",
     "Images/d566f88d-smush-pro+dj+mix+set.jpg",
     "Mastering/Reference Tracks.md",
     "Images/4905bgniu.jpg",
@@ -255,7 +247,6 @@
     "Arrangement/Intros.md",
     "Arrangement/Drops.md",
     "Arrangement/Buildups.md",
-    "Arrangement/Breakdowns.md",
     "Images/Music-Arrangement-Tips-710x473-427fd165.jpg",
     "Images/que-se-necesita-para-ser-dj-640x426.jpg",
     "Images/b5d5beef4b72aba85bfa3a2cc5e4d771.png",
@@ -268,8 +259,6 @@
     "DJing",
     "Excalidraw",
     "Resources",
-    "Sampling",
-    "Equipment",
     "Images/97c2aacd9986785de963b798672e0d6e.png",
     "Images/ab69b747462377c88644f5f17c444059.png"
   ]

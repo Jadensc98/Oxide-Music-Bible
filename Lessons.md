@@ -11,3 +11,4 @@
 - MRingmodulatorMB or khs ring mod for crucnh
 - archetype gojira neural dsp
 - layering different vocals
+- Things i need to work on from Abe and others: Variation in drops (Every 8 bars or so), Post processing to get things sounding more clean.

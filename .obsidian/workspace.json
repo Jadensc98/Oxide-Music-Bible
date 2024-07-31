@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "DJing/Crowd Reading.md",
+                    "file": "Lessons.md",
                     "mode": "source",
                     "source": false
                   }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DJing/Crowd Reading.md",
+                "file": "Lessons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DJing/Crowd Reading.md",
+                "file": "Lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DJing/Crowd Reading.md"
+                "file": "Lessons.md"
               }
             }
           },
@@ -213,16 +213,19 @@
       "media-extended:Open media": false
     }
   },
-  "active": "da839b449928ff43",
+  "active": "200ec928b0d81220",
   "lastOpenFiles": [
-    "Mixing/Dynamics.md",
+    "Introduction.md",
+    "General Notes & Advice.md",
+    "FULL INDEX.md",
+    "Lessons.md",
+    "Transitions.md",
     "DJing/Crowd Reading.md",
+    "Mixing/Dynamics.md",
     "DJing/Curating A Set.md",
     "DJing/DJEffects.md",
-    "Lessons.md",
     "Oxidesmusicbible.zip",
     "Arrangement.zip",
-    "General Notes & Advice.md",
     "Mixing/Equalization (EQ).md",
     "DJing/USB.md",
     "DJing/Rekordbox.md",
@@ -244,9 +247,6 @@
     "DAWs/Collaborating.md",
     "Arrangement/Your Style.md",
     "Arrangement/Outros.md",
-    "Arrangement/Intros.md",
-    "Arrangement/Drops.md",
-    "Arrangement/Buildups.md",
     "Images/Music-Arrangement-Tips-710x473-427fd165.jpg",
     "Images/que-se-necesita-para-ser-dj-640x426.jpg",
     "Images/b5d5beef4b72aba85bfa3a2cc5e4d771.png",

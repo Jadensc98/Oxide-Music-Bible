@@ -16,3 +16,4 @@
 - Pay more attention to EQ especially high end in basses, can sound too bright.
 - softtube saturator
 - fresh air plugin for brightening vocals, bit more like saturation
+- loudness meter

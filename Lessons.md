@@ -14,4 +14,4 @@
 - Things i need to work on from Abe and others: Variation in drops (Every 8 bars or so), Post processing to get things sounding more clean.
 - Low end 500 Hz high end 5k hz for reverb/delay. Spread all the way up for pluck in hifi/future mode in valhalladelay
 - Pay more attention to EQ especially high end in basses, can sound too bright.
-- 
+- softtube saturator

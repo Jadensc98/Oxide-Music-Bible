@@ -29,12 +29,14 @@
                 "id": "ccf25e55cc455753",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.7.5"
+                    "file": "DAWs/Collaborating.md",
+                    "mode": "source",
+                    "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Release Notes 1.7.5"
+                  "title": "Collaborating"
                 }
               }
             ],
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons.md",
+                "file": "DAWs/Collaborating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lessons"
+              "title": "Backlinks for Collaborating"
             }
           },
           {
@@ -171,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons.md",
+                "file": "DAWs/Collaborating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lessons"
+              "title": "Outgoing links from Collaborating"
             }
           },
           {
@@ -198,10 +200,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons.md"
+                "file": "DAWs/Collaborating.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lessons"
+              "title": "Outline of Collaborating"
             }
           },
           {

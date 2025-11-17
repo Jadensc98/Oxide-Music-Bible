@@ -24,4 +24,4 @@
 What are the main differences between the Production step and the Arrangement step in the workflow?
 
 ### Homework
-Tonights homework that is due on thursday; familiarize yourself with the layout of FL Studio, press different buttons and see where they take you and what they do. I will select people at random to answer questions on what buttons lead to where. Also, create a drum pattern in the drum rack using 
+Tonights homework that is due on thursday; familiarize yourself with the layout of FL Studio, press different buttons and see where they take you and what they do. I will select people at random to answer questions on what buttons lead to where. Also, create a drum pattern in the drum rack using the drum samples provided in the Browser or from the internet and export it to send in the homework-submission channel.

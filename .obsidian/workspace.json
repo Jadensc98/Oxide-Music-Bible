@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "DAWs/Collaborating.md",
+                    "file": "Music School/Lesson Plan 1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Collaborating"
+                  "title": "Lesson Plan 1"
                 }
               }
             ],
@@ -256,10 +256,14 @@
   },
   "active": "ccf25e55cc455753",
   "lastOpenFiles": [
+    "Lessons.md",
+    "Music School/Lesson Plan 1.md",
+    "Music School",
+    "Untitled.md",
+    "DAWs/Collaborating.md",
     "Introduction.md",
     "General Notes & Advice.md",
     "FULL INDEX.md",
-    "Lessons.md",
     "Transitions.md",
     "DJing/Crowd Reading.md",
     "Mixing/Dynamics.md",
@@ -285,9 +289,6 @@
     "DAWs/DAWS Notes.md",
     "DAWs/DAWS 101.md",
     "Images/02QaOt9scNCqy2rcspJPLmq-21.webp",
-    "DAWs/Collaborating.md",
-    "Arrangement/Your Style.md",
-    "Arrangement/Outros.md",
     "Images/Music-Arrangement-Tips-710x473-427fd165.jpg",
     "Images/que-se-necesita-para-ser-dj-640x426.jpg",
     "Images/b5d5beef4b72aba85bfa3a2cc5e4d771.png",
@@ -299,7 +300,6 @@
     "Music Theory",
     "DJing",
     "Excalidraw",
-    "Resources",
     "Images/97c2aacd9986785de963b798672e0d6e.png",
     "Images/ab69b747462377c88644f5f17c444059.png"
   ]

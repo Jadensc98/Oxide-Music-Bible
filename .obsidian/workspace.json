@@ -38,9 +38,21 @@
                   "icon": "lucide-file",
                   "title": "Lesson Plan 1"
                 }
+              },
+              {
+                "id": "aed2847356bdef93",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.10.3"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.10.3"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "2df5fdb6239e6bb5",
@@ -254,7 +266,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "ccf25e55cc455753",
+  "active": "aed2847356bdef93",
   "lastOpenFiles": [
     "Lessons.md",
     "Music School/Lesson Plan 1.md",

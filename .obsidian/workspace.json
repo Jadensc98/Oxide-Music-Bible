@@ -43,12 +43,14 @@
                 "id": "aed2847356bdef93",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.10.3"
+                    "file": "Music School/Lesson Plan 1.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.10.3"
+                  "icon": "lucide-file",
+                  "title": "Lesson Plan 1"
                 }
               }
             ],

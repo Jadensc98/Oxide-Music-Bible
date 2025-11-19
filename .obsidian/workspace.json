@@ -153,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "feec7b8763e50365",
@@ -268,10 +268,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "aed2847356bdef93",
+  "active": "0bb382e5df95fc39",
   "lastOpenFiles": [
-    "Lessons.md",
     "Music School/Lesson Plan 1.md",
+    "Lessons.md",
     "Music School",
     "Untitled.md",
     "DAWs/Collaborating.md",

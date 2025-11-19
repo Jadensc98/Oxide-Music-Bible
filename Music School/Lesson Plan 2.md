@@ -14,6 +14,7 @@
 - Mastering: Polishing and maximizing loudness, checking on speakers, exporting with perfect settings.
 	  Mastering is the final step inside of your DAW to complete your new track. Mastering is like the icing on the cake, and mixing is the cake itself, making things sound cohesive still with more general adjustments instead of the particular/detailed adjustments in the mixing process.
 
+See [[Arrangement 101]]
 #### Question for class:
 What are the main differences between the Production step and the Arrangement step in the workflow?
 ### Automation & More Effects
@@ -39,4 +40,4 @@ Where do you apply effects?
 #### Homework
 Tonights homework that is due on thursday; familiarize yourself with the layout of FL Studio, press different buttons and see where they take you and what they do. I will select people at random to answer questions on what buttons lead to where. 
 
-Create a drum pattern WITH synths/instruments and automate at least one thing, and also apply an effect to anything in the mixer.  
+Create a drum pattern WITH synths/instruments and automate at least one thing, and also apply an effect to anything in the mixer. If you can, try to even make a song using the song structure process we discussed. 

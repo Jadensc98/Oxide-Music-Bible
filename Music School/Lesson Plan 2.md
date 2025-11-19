@@ -14,7 +14,8 @@
 - Mastering: Polishing and maximizing loudness, checking on speakers, exporting with perfect settings.
 	  Mastering is the final step inside of your DAW to complete your new track. Mastering is like the icing on the cake, and mixing is the cake itself, making things sound cohesive still with more general adjustments instead of the particular/detailed adjustments in the mixing process.
 
-
+#### Question for class:
+What are the main differences between the Production step and the Arrangement step in the workflow?
 ### Automation & More Effects
  **Automation Basics**
 
@@ -23,5 +24,14 @@
 - Automating volume, filters, reverb, etc.
     
 - How to keep automation organized
+
+**Effects**
+
+Go over more effects in the mixer that can be applied to kicks and synths
+
+**VSTs**
+
+Go over what a VST is, synths and effects
 #### Question for class:
-What are the main differences between the Production step and the Arrangement step in the workflow?
+What is automation used for?
+

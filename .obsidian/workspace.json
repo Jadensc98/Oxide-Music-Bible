@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Soundcloud/Related Tracks.md",
+                    "file": "Music School/Lesson Plan 2.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Related Tracks"
+                  "title": "Lesson Plan 2"
                 }
               }
             ]
@@ -241,8 +241,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "da839b449928ff43",
+  "active": "aed2847356bdef93",
   "lastOpenFiles": [
+    "Soundcloud/Related Tracks.md",
     "Soundcloud/Listens.md",
     "Soundcloud/Distrokid.md",
     "Soundcloud/Cover Art.md",
@@ -268,7 +269,6 @@
     "Plugins/Plugins 101.md",
     "Plugins/Kilohearts.md",
     "Plugins/G-Clip.md",
-    "Music Theory/Music Theory 101.md",
     "Audio/Fill-Roll.wav",
     "Music School",
     "Oxidesmusicbible.zip",

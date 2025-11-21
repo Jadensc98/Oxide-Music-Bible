@@ -10,7 +10,7 @@
           {
             "id": "035bdb50de71f323",
             "type": "tabs",
-            "dimension": 68.55608591885442,
+            "dimension": 68.01896733403584,
             "children": [
               {
                 "id": "aed2847356bdef93",
@@ -31,7 +31,7 @@
           {
             "id": "2df5fdb6239e6bb5",
             "type": "split",
-            "dimension": 31.443914081145586,
+            "dimension": 31.98103266596417,
             "children": [
               {
                 "id": "4a8bae79b9df7cf9",
@@ -241,7 +241,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0bb382e5df95fc39",
+  "active": "aed2847356bdef93",
   "lastOpenFiles": [
     "Music School/Lesson Plan 2.md",
     "Soundcloud/Related Tracks.md",

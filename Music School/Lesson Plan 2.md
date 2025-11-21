@@ -38,6 +38,6 @@ What is automation used for?
 
 Where do you apply effects?
 #### Homework
-Tonights homework that is due on thursday; familiarize yourself with the layout of FL Studio, press different buttons and see where they take you and what they do. I will select people at random to answer questions on what buttons lead to where. 
+Tonights homework that is due on tuesday; familiarize yourself with the layout of FL Studio, press different buttons and see where they take you and what they do. I will select people at random to answer questions on what buttons lead to where. 
 
 Create a drum pattern WITH synths/instruments and automate at least one thing, and also apply an effect to anything in the mixer. If you can, try to even make a song using the song structure process we discussed. 

@@ -18,15 +18,28 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Music School/Lesson Plan 2.md",
+                    "file": "Music School/Lesson Plan 3.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Lesson Plan 2"
+                  "title": "Lesson Plan 3"
+                }
+              },
+              {
+                "id": "5105d286ea78d98a",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.10.6"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.10.6"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "2df5fdb6239e6bb5",
@@ -241,9 +254,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "aed2847356bdef93",
+  "active": "5105d286ea78d98a",
   "lastOpenFiles": [
     "Music School/Lesson Plan 2.md",
+    "Music School/Lesson Plan 3.md",
     "Soundcloud/Related Tracks.md",
     "Soundcloud/Listens.md",
     "Soundcloud/Distrokid.md",
@@ -268,7 +282,6 @@
     "Plugins/Pro-Q 3.md",
     "Plugins/PRO-L 2.md",
     "Plugins/Plugins 101.md",
-    "Plugins/Kilohearts.md",
     "Audio/Fill-Roll.wav",
     "Music School",
     "Oxidesmusicbible.zip",

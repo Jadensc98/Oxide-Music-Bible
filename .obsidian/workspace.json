@@ -30,12 +30,14 @@
                 "id": "5105d286ea78d98a",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.10.6"
+                    "file": "Music School/Lesson Plan 4.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.10.6"
+                  "icon": "lucide-file",
+                  "title": "Lesson Plan 4"
                 }
               }
             ],
@@ -259,10 +261,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a82184d9d1c899e6",
+  "active": "5105d286ea78d98a",
   "lastOpenFiles": [
-    "Music School/Lesson Plan 2.md",
     "Music School/Lesson Plan 3.md",
+    "Music School/Lesson Plan 4.md",
+    "Music School/Lesson Plan 2.md",
     "Soundcloud/Related Tracks.md",
     "Soundcloud/Listens.md",
     "Soundcloud/Distrokid.md",
@@ -286,7 +289,6 @@
     "Plugins/VSTs.md",
     "Plugins/Pro-Q 3.md",
     "Plugins/PRO-L 2.md",
-    "Plugins/Plugins 101.md",
     "Audio/Fill-Roll.wav",
     "Music School",
     "Oxidesmusicbible.zip",

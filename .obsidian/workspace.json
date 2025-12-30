@@ -189,7 +189,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -201,7 +203,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAWs/Collaborating.md"
+                "file": "DAWs/Collaborating.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Collaborating"
@@ -254,7 +259,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "5105d286ea78d98a",
+  "active": "a82184d9d1c899e6",
   "lastOpenFiles": [
     "Music School/Lesson Plan 2.md",
     "Music School/Lesson Plan 3.md",

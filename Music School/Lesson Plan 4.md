@@ -1,7 +1,6 @@
 Go over FX with students
 - Risers
 - Impacts
-- Snare rolls
 
 Go over intro sections
 - Creating atmosphere

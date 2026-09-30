@@ -39,9 +39,21 @@
                   "icon": "lucide-file",
                   "title": "Lesson Plan 4"
                 }
+              },
+              {
+                "id": "612fb82f2106c090",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.11.4"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.11.4"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "2df5fdb6239e6bb5",
@@ -261,7 +273,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "5105d286ea78d98a",
+  "active": "612fb82f2106c090",
   "lastOpenFiles": [
     "Music School/Lesson Plan 3.md",
     "Music School/Lesson Plan 4.md",

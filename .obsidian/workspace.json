@@ -51,9 +51,21 @@
                   "icon": "lucide-book-up",
                   "title": "Release Notes 1.11.4"
                 }
+              },
+              {
+                "id": "dc71a8e33b420592",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.13.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.13.7"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "2df5fdb6239e6bb5",
@@ -116,7 +128,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -267,13 +281,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "workspaces:Manage workspace layouts": false,
       "media-extended:Open media": false
     }
   },
-  "active": "612fb82f2106c090",
+  "active": "dc71a8e33b420592",
   "lastOpenFiles": [
     "Music School/Lesson Plan 3.md",
     "Music School/Lesson Plan 4.md",
